@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.menu-primary {
+  @apply hover:text-[#e9ab53] ml-6 cursor-pointer text-[#5d5f79];
+}
